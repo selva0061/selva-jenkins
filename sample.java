@@ -7,3 +7,4 @@ class sample{
     System.out.println("to");
     System.out.println("class");
   }
+}
